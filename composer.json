@@ -1,0 +1,15 @@
+{
+    "name": "luilliweb/venezuela",
+    "description": "trabajo para artpost",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lamvvmalok",
+            "email": "l.a.m.v.moreno@gmail.com"
+        }
+    ]
+}
